@@ -10,9 +10,7 @@
 html{
     scroll-behavior: smooth;
 }
-html {
-  background-color: black;
-}
+
 /* custom scroll bar */
 ::-webkit-scrollbar {
     width: 10px;
