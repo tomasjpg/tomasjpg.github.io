@@ -167,7 +167,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/banner.jpg") no-repeat center;
+    background: url("https://64.media.tumblr.com/cfdeb426bee8aba8ef87b907313b27d2/473d7117b0839e14-0a/s2048x3072_c11065,62,89942,25025/c8a1fb83805bd730d68fe1db82097dd4d15d35a6.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
